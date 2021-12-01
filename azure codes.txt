@@ -1,0 +1,18 @@
+cd D:/ to change to cd drive d
+copy paste shift+insert
+create folder mkdir
+list out ls
+text file is touch+file name
+change the directory is cd
+editor is vi
+text inside can be shown by cat
+write and quit is by :/wq
+forceable quit is q!
+clearing full screen is clear
+removing code rm code
+one step back cd ..
+recursivly and forceably deleteis rm -rf
+present working direction ispwd
+only command in invetedcommasis echo command
+github is also called remote
+vnspace@1 password
